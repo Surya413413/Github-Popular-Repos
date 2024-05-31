@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.list-container {
+  margin: 10px;
+}
+.para-style {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Roboto';
+  margin: 5px;
+}
